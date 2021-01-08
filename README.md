@@ -1,7 +1,7 @@
 # Mathematical Set
 
 ##### How to run Mathematical Set:
-- Make sure you have the GHCi complier installed ([https://www.haskell.org/platform/])
+- Make sure you have the GHCi complier installed (https://www.haskell.org/platform/)
 - Fork this repository
 - Run the command below:  
 `ghci mathsSet.hs`  
